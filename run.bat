@@ -1,0 +1,1 @@
+.\PriceWebCrawler.exe .\7050c_Price.csv
